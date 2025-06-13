@@ -137,5 +137,4 @@ fastfetch
 echo
 echo "SSH-Agent started with $total_keys keys"
 
-
 . "$HOME/.local/bin/env"
