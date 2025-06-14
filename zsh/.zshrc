@@ -105,6 +105,8 @@ alias gs='git status'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias salmon='~/smoked-salmon/.venv/bin/salmon'
+alias python=python3
+alias d2u='find . -type f -exec dos2unix -q {} \;'
 alias vi=nvim
 #
 ## ✅ Set editor
